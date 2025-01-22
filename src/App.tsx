@@ -120,7 +120,7 @@ Email: ${formData.email}
 Message:
 ${formData.message}`;
 
-    window.location.href = `mailto:brandonsharp003@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:Enquires@brandon-sharp-portfolio.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     
     setFormData({
       name: '',
@@ -496,7 +496,7 @@ ${formData.message}`;
                 <a href="https://www.linkedin.com/in/brandonsharp003/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
                   <Linkedin className="w-5 md:w-6 h-5 md:h-6" />
                 </a>
-                <a href="mailto:brandonsharp003@gmail.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
+                <a href="mailto:Enquires@brandon-sharp-portfolio.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
                   <Mail className="w-5 md:w-6 h-5 md:h-6" />
                 </a>
               </div>
