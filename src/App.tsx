@@ -66,37 +66,37 @@ function App() {
 
   const projects = [
     {
-      title: "Comming Soon",
+      title: "Coming Soon",
       description: "Project to be uploaded soon.",
       icon: Shield,
       link: "#"
     },
     {
-      title: "Comming Soon",
+      title: "Coming Soon",
       description: "Project to be uploaded soon.",
       icon: Server,
       link: "#"
     },
     {
-      title: "Comming Soon,
+      title: "Coming Soon",
       description: "Project to be uploaded soon.",
       icon: Cpu,
       link: "#"
     },
     {
-      title: "Comming Soon",
+      title: "Coming Soon",
       description: "Project to be uploaded soon.",
       icon: Network,
       link: "#"
     },
     {
-      title: "Comming Soon",
+      title: "Coming Soon",
       description: "Project to be uploaded soon.",
       icon: Database,
       link: "#"
     },
     {
-      title: "Comming Soon",
+      title: "Coming Soon",
       description: "Project to be uploaded soon.",
       icon: Bot,
       link: "#"
