@@ -66,38 +66,38 @@ function App() {
 
   const projects = [
     {
-      title: "Security Scanner",
-      description: "Automated vulnerability scanner for web applications",
+      title: "Comming Soon",
+      description: "Project to be uploaded soon.",
       icon: Shield,
       link: "#"
     },
     {
-      title: "Secure API Framework",
-      description: "Zero-trust API framework with built-in security features",
+      title: "Comming Soon",
+      description: "Project to be uploaded soon.",
       icon: Server,
       link: "#"
     },
     {
-      title: "Threat Detection System",
-      description: "ML-powered system for detecting security threats",
+      title: "Comming Soon,
+      description: "Project to be uploaded soon.",
       icon: Cpu,
       link: "#"
     },
     {
-      title: "Network Monitor",
-      description: "Real-time network traffic analysis and intrusion detection",
+      title: "Comming Soon",
+      description: "Project to be uploaded soon.",
       icon: Network,
       link: "#"
     },
     {
-      title: "Secure Database Layer",
-      description: "Encrypted database wrapper with access control",
+      title: "Comming Soon",
+      description: "Project to be uploaded soon.",
       icon: Database,
       link: "#"
     },
     {
-      title: "Security Bot",
-      description: "Automated security response and remediation system",
+      title: "Comming Soon",
+      description: "Project to be uploaded soon.",
       icon: Bot,
       link: "#"
     }
